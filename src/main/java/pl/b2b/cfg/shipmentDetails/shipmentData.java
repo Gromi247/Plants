@@ -11,4 +11,7 @@ public class shipmentData {
     public final static String CITY ="//input[@id=\"city\"]";
     public final static String PHONE_NUMBER ="//input[@id=\"phone\"]";
     public final static String SAVE ="//input[@value=\"Zapisz\"]";
+
+    public final static String Grzesiek = "dd";
+
 }
